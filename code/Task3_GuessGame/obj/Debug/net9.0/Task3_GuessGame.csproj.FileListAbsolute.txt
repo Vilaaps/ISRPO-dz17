@@ -1,0 +1,15 @@
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\bin\Debug\net9.0\Task3_GuessGame.exe
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\bin\Debug\net9.0\Task3_GuessGame.deps.json
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\bin\Debug\net9.0\Task3_GuessGame.runtimeconfig.json
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\bin\Debug\net9.0\Task3_GuessGame.dll
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\bin\Debug\net9.0\Task3_GuessGame.pdb
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\obj\Debug\net9.0\Task3_GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\obj\Debug\net9.0\Task3_GuessGame.AssemblyInfoInputs.cache
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\obj\Debug\net9.0\Task3_GuessGame.AssemblyInfo.cs
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\obj\Debug\net9.0\Task3_GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\obj\Debug\net9.0\Task3_GuessGame.sourcelink.json
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\obj\Debug\net9.0\Task3_GuessGame.dll
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\obj\Debug\net9.0\refint\Task3_GuessGame.dll
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\obj\Debug\net9.0\Task3_GuessGame.pdb
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\obj\Debug\net9.0\Task3_GuessGame.genruntimeconfig.cache
+C:\Users\Vilaps\ISRPO-dz17\code\Task3_GuessGame\obj\Debug\net9.0\ref\Task3_GuessGame.dll

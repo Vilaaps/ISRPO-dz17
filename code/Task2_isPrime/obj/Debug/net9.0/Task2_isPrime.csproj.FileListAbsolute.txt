@@ -1,0 +1,15 @@
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\bin\Debug\net9.0\Task2_isPrime.exe
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\bin\Debug\net9.0\Task2_isPrime.deps.json
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\bin\Debug\net9.0\Task2_isPrime.runtimeconfig.json
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\bin\Debug\net9.0\Task2_isPrime.dll
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\bin\Debug\net9.0\Task2_isPrime.pdb
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\obj\Debug\net9.0\Task2_isPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\obj\Debug\net9.0\Task2_isPrime.AssemblyInfoInputs.cache
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\obj\Debug\net9.0\Task2_isPrime.AssemblyInfo.cs
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\obj\Debug\net9.0\Task2_isPrime.csproj.CoreCompileInputs.cache
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\obj\Debug\net9.0\Task2_isPrime.sourcelink.json
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\obj\Debug\net9.0\Task2_isPrime.dll
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\obj\Debug\net9.0\refint\Task2_isPrime.dll
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\obj\Debug\net9.0\Task2_isPrime.pdb
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\obj\Debug\net9.0\Task2_isPrime.genruntimeconfig.cache
+C:\Users\Vilaps\ISRPO-dz17\code\Task2_isPrime\obj\Debug\net9.0\ref\Task2_isPrime.dll
